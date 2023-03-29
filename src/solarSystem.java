@@ -1,7 +1,8 @@
 public class solarSystem {
 
-    String sun;
-    String moon;
-    String planets;
+        String sun;
+        String moon;
+        String planets;
+
 
 }
